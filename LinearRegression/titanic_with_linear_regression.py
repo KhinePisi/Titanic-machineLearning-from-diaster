@@ -1,8 +1,8 @@
 import pandas as pd
 import numpy as np
-dataset=pd.read_csv("../input/titanic-dataset/train (1).csv")
-testset=pd.read_csv("../input/titanic-dataset/test.csv")
-gender_sub=pd.read_csv("../input/titanic/gender_submission.csv")
+dataset=pd.read_csv("../input/-dataset/train (1).csv")
+testset=pd.read_csv("../input/-dataset/test.csv")
+gender_sub=pd.read_csv("../input//gender_submission.csv")
 trainedSurvived=dataset.iloc[:,:1].values
 trainedSex=dataset.iloc[:,1].values
 sexForPredict=testset.iloc[:,3:4].values
