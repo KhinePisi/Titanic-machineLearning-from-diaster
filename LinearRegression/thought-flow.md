@@ -17,7 +17,7 @@ At first , data values for "Sex" are "male" and  "female" . <br>
   <hr>
   <h3> Conclusion</h3>
   This can't get the good accuracy score as it's very simple. <br>
-  But for the sake of the beginners, you won't get bored of machine learning easily and will always find and apply your newly <br>learned algorithms and skills . May your hands be dirtier on ML coding <3 ! 
+  But for the sake of the beginners, you won't get bored of machine learning easily and will always find and apply your newly <br>learned algorithms and skills . May your hands get dirtier on ML coding <3 ! 
   
  
 
